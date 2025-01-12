@@ -1,0 +1,18 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+.vs/
+.vscode/
+
+# User-specific files
+.user
+.userprefs
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
