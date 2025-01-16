@@ -12,7 +12,18 @@ Builds/
 .userprefs
 .idea/
 
-# Windows
+# Windows system files
 Thumbs.db
 ehthumbs.db
 
+# macOS system files
+.DS_Store
+
+# Linux system files
+*~
+
+# JetBrains Rider specific files
+.idea/
+
+# User specific files
+*.swp

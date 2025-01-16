@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 3ae8e1970153c4928adb12accb7a5040
+guid: 9cde4f0bf112b40f391b72f548e6c136
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2086993313030124417
-    second: board_plain_05_0
+      213: 4993670006919007064
+    second: player-Jump_0
+  - first:
+      213: 6816260747882125227
+    second: player-Jump_1
+  - first:
+      213: 1667294304938989931
+    second: player-Jump_2
+  - first:
+      213: -5448458071041818017
+    second: player-Jump_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +55,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: board_plain_05_0
+      name: player-Jump_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 78
-        width: 64
-        height: 64
+        x: 41
+        y: 0
+        width: 45
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,74 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 183b6cf5c5d76fc10800000000000000
-      internalID: 2086993313030124417
+      spriteID: 85b0ee7e9641d4540800000000000000
+      internalID: 4993670006919007064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: board_plain_05_1
+      name: player-Jump_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 78
-        width: 64
-        height: 64
+        x: 171
+        y: 2
+        width: 40
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fd3e622640c284d17906e86a637ec6fa
-      internalID: 1861377274
+      spriteID: ba7d3fd3909389e50800000000000000
+      internalID: 6816260747882125227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: board_plain_05_2
+      name: player-Jump_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 14
-        width: 64
-        height: 64
+        x: 296
+        y: 3
+        width: 44
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 511a164e547e046a7977f9068debbebf
-      internalID: 947636079
+      spriteID: b699bed265b632710800000000000000
+      internalID: 1667294304938989931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: board_plain_05_3
+      name: player-Jump_3
       rect:
         serializedVersion: 2
-        x: 64
-        y: 14
-        width: 64
-        height: 64
+        x: 419
+        y: 0
+        width: 52
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d55aa3198c2df4508b95ed81a512997c
-      internalID: 130582939
+      spriteID: f5241f560403364b0800000000000000
+      internalID: -5448458071041818017
       vertices: []
       indices: 
       edges: []
@@ -204,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 394f7db69928d43e29b7e8de11ed4f8a
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -214,10 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      board_plain_05_0: 2086993313030124417
-      board_plain_05_1: 1861377274
-      board_plain_05_2: 947636079
-      board_plain_05_3: 130582939
+      player-Jump_0: 4993670006919007064
+      player-Jump_1: 6816260747882125227
+      player-Jump_2: 1667294304938989931
+      player-Jump_3: -5448458071041818017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

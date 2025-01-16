@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -41,11 +41,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Tablero
-    uniqueID: 2587154753
-    locked: 0
-  - name: Pieza
-    uniqueID: 1019207093
+  - name: Ground
+    uniqueID: 4179187481
     locked: 0
   m_RenderingLayers:
   - Default
